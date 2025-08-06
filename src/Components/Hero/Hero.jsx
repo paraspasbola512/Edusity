@@ -1,6 +1,7 @@
 import React from 'react';
 import './Hero.css';
-// import dark_arrow from '../../assets/dark_arrow';
+import dark_arrow from "../../assets/dark-arrow.png";
+
 const Hero = () => {
     return (
         <div className='hero container'>
@@ -9,8 +10,8 @@ const Hero = () => {
                 <p>Prepare for a successful future with industry-relevant programs and hands-on learning.
                     Get the knowledge, tools, and confidence to build the career you want."
                 </p>
-                {/* <button className='btn'>Explore more <img src={dark_arrow} alt='' />
-                </button> */}
+                <button className='btn'>Explore more <img src={dark_arrow} alt='' />
+                </button>
             </div>
         </div>
     )
