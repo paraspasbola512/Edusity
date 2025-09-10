@@ -37,30 +37,16 @@ npm run build
 📸 Screenshots
 ![Home Page](./src/assets/edusity.png)
 
-Programs Section
+### 📚 other sections
+![Programs](./src/assets/programs.png)
+![Programs](./src/assets/contact.png)
+![Programs](./src/assets/testimonials.png)
 
-🌍 Live Demo
-
-👉 Click here to view live site
-
-📌 Tech Stack
-
-React.js
-
-CSS3
-
-Git & GitHub
-
-Vercel / Netlify (for deployment)
 
 👨‍💻 Author
-
-Your Name
-
-GitHub: @your-username
+GitHub: @paraspasbola512
 
 
 ---
 
-⚡ Next step:  
-Do you want me to **write and add this `README.md` file directly in your project**, or do you just want to copy-paste this template yourself?
+
