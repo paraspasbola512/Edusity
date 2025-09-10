@@ -1,66 +1,66 @@
-# 🎓 Edusity
+# 🎓 Edusity - Education Website
 
-**Edusity** is a modern educational platform built with **React**, powered by **Vite**, and follows strict coding standards using **ESLint**. This project provides a clean layout and dynamic component-based architecture, making it scalable and easy to maintain.
-
-![Edusity Banner](./assets/edusity-banner.png)
-
----
-
-## 🚀 Tech Stack
-
-- ⚛️ React
-- ⚡ Vite
-- 🧹 ESLint
-- 🎨 CSS (or Tailwind CSS if included)
+Edusity is a modern, responsive educational website built with **React.js**.  
+It provides sections for About, Campus, Programs, Testimonials, Contact, and more.  
 
 ---
 
-## 📦 Getting Started
+## 🚀 Features
+- Responsive design (mobile, tablet, desktop)  
+- Reusable React components  
+- Styled with CSS  
+- Smooth UI/UX  
 
-### 1. Clone the Repository
-``bash
-git clone https://github.com/paraspasbola512/Edusity.git
-cd Edusity
+---
 
-2. Install Dependencies
-``bash
+## 🛠️ Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/paraspasbola512/Edusity
+   cd edusity
+
+2. Install dependencies:
+
 npm install
 
-3. Start the Development Server
-``bash
-npm run dev
-Visit: http://localhost:5173
 
-📁 Project Structure (Example)
+3. Start the development server:
 
-Edusity/
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── App.jsx
-│   └── main.jsx
-├── package.json
-├── vite.config.js
-└── README.md
+npm start
 
-✨ Features
-Responsive UI layout
-Component-based architecture
-Fast refresh via Vite
-ESLint-configured development environment
+
+4. Build for production:
+
+npm run build
 
 📸 Screenshots
+![Home Page](./src/assets/edusity.png)
+
+Programs Section
+
+🌍 Live Demo
+
+👉 Click here to view live site
+
+📌 Tech Stack
+
+React.js
+
+CSS3
+
+Git & GitHub
+
+Vercel / Netlify (for deployment)
+
+👨‍💻 Author
+
+Your Name
+
+GitHub: @your-username
 
 
-🤝 Contributing
-Contributions are welcome!
+---
 
-Fork the repository
-Create a new branch (git checkout -b feature-branch)
-Commit your changes (git commit -m 'Add some feature')
-Push to the branch (git push origin feature-branch)
-Open a pull request
-
-📄 License
-MIT License © 2025 paraspasbola512
+⚡ Next step:  
+Do you want me to **write and add this `README.md` file directly in your project**, or do you just want to copy-paste this template yourself?
